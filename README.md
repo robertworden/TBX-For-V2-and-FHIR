@@ -1,10 +1,10 @@
 # TBX-For-V2-and-FHIR
 Free download of the TBX tools, to build transforms between HL7 Version 2 and FHIR
 
-Transforms By Example (TBX) is a toolset for developing healthcare data transforms, particularly with FHIR.
+Transforms By Example (TBX) is a toolset for developing healthcare data transforms, particularly with FHIR. For more information, see https://github.com/robertworden/TBX-Tutorials .
 
-Using TBX, you create a transform by creating example pairs (of source and target) showing what the transform must do. The tools do the rest. This is economical, and promotes reuse of transforms.
+For uses involving only HL7 Version 2 and FHIR, you can download TBX free.
 
-For uses involving just HL7 Version 2 and FHIR, you can download TBX free from this repository.
+As the TBX Eclipse plugins are more than 25 MB, you can't get them from this repository. You need to download them from http://www.openmapsw.com/ .
 
-For other uses, license TBX from http://www.openmapsw.com/ .
+This repository contains other useful material to go with the TBX tools - such as instructions to install them, and a guided tour project.
