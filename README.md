@@ -5,6 +5,6 @@ Transforms By Example (TBX) is a toolset for developing healthcare data transfor
 
 For uses involving only HL7 Version 2 and FHIR, you can download TBX free.
 
-As the TBX Eclipse plugins are more than 25 MB, you can't get them from this repository. You need to download them from http://www.openmapsw.com/ .
+As the TBX Eclipse plugins are more than 25 MB, you can't get them from this repository. You need to download them from http://www.openmapsw.com/TBE/TBEHealth.htm.
 
 This repository contains other useful material to go with the TBX tools - such as instructions to install them, and a guided tour project.
